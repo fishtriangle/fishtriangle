@@ -20,7 +20,7 @@
 
 ⚡ My stack: TypeScript / React / Next / Tailwind / Bootstrap / Nest / GraphQL / Prisma / Nodejs
 
-😄 Interested at improving skills in Vue.js and frontend testing/
+😄 Interested at improving skills in Vue.js and frontend testing
 
 <br>
 <div align="center">
